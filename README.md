@@ -9,9 +9,9 @@ The DexNav function is loosely inspired by this:
 
 <https://bulbapedia.bulbagarden.net/wiki/DexNav>
 
-![Screen Shot 2019-04-04 at 1.24.48 AM](/Users/wyattverchere/Desktop/Screen Shot 2019-04-04 at 1.24.48 AM.png)
+In game, it looks like the below imgur picture. It has several features: a pokemon hunter, a region map, online connectivity, and a "memory chamber" (allowing for random battles).
 
-In game, it looks like the above. It has several features: a pokemon hunter, a region map, online connectivity, and a "memory chamber" (allowing for random battles).
+https://imgur.com/Nsp7nyo
 
 ### How do I use it?
 
