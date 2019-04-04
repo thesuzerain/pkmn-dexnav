@@ -21,18 +21,10 @@ https://imgur.com/Nsp7nyo
 
 3. Add the Graphics included in the repository to your graphics (in the same file locations).
 
-4. In the overworld, run the command 
+4. In the overworld, run *one* of the two following commands (it will render the scene overtop of the overworked)
 
 5. ```
    $scene = Scene_DexNav.new
+   
+   pbLoadRpgxpScene(Scene_DexNav.new)
    ```
-
-   or
-
-   1. ```
-      pbLoadRpgxpScene(Scene_DexNav.new)
-      ```
-
-      which will load the scene and render it overtop
-
-5. Some pieces of code are marked off if different button functionality is desired.
